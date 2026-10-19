@@ -1,0 +1,56 @@
+src-tauri/src/config/verge.rs
+  h_5737b2c6c3b3cb 227-232,431-432,535-536
+src/locales/de/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/tr/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+scripts/generate_tray_presets.py
+  h_5737b2c6c3b3cb 1-331
+src/locales/zhtw/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/en/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src-tauri/src/feat/effects.rs
+  h_5737b2c6c3b3cb 130-131
+src/locales/pt/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src-tauri/src/core/tray/mod.rs
+  h_5737b2c6c3b3cb 53,111-117,121-155,427-429,569-570
+src/locales/jp/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/fa/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/ko/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/es/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/components/setting/mods/layout-viewer.tsx
+  h_5737b2c6c3b3cb 11,21-32,46-108,504-578,580-605
+src/locales/zh/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/ar/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/ru/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/id/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/locales/tt/settings.json
+  h_5737b2c6c3b3cb 251,255,265-278
+src/types/generated/i18n-keys.ts
+  h_5737b2c6c3b3cb 555,557,563-574
+src/types/generated/i18n-resources.ts
+  h_5737b2c6c3b3cb 766,786-799,803
+src/services/bindings.ts
+  h_5737b2c6c3b3cb 435-436,527-528
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2fe92d27da32331dd9cd959e89a4168d858974b5",
+  "prompts": {},
+  "humans": {
+    "h_5737b2c6c3b3cb": {
+      "author": "zhengshiyu1 <zhengshiyu@jd.com>"
+    }
+  }
+}
